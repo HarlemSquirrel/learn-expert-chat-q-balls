@@ -14,7 +14,7 @@ function addBallClassesToHead() {
 		type: 'text/css',
 		text:
 			'.ball{border:1px solid red;border-radius:50%;display:inline-block;padding:5px;}' +
-			'.redBall{ background:red } </style>").appendTo("head")'
+			'.redBall{ background:red }'
 	}).appendTo("head");
 }
 
