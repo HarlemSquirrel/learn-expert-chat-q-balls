@@ -31,5 +31,5 @@ addBallsToQs();
 
 window.setInterval(function(){
 	// runs every 30 seconds, first run delayed by 30s
-  addBallsToQs();
+	addBallsToQs();
 }, 30000);
