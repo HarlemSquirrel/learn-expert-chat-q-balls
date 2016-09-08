@@ -7,7 +7,6 @@
 
 *****************************************************************/
 
-
 function addBallClassesToHead() {
 	// Add the ball and redBall classes to the head
 	$('<style>', {
